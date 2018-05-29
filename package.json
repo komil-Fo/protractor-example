@@ -13,15 +13,15 @@
     "url": "https://github.com/juliemr/protractor-demo"
   },
   "dependencies": {
-    "angular": "^1.4.3",
-    "express": "~3.4.0",
-    "firefox-profile": "0.3.4",
-    "mkdirp": "~0.3.5",
-    "protractor": "2.1.0",
-    "q": "1.0.0"
+    "angular": "^1.6.2",
+    "express": "~4.14.1",
+    "firefox-profile": "0.4.8",
+    "mkdirp": "~0.5.1",
+    "protractor": "5.1.1",
+    "q": "1.4.1"
   },
   "license": "MIT",
   "devDependencies": {
-    "arnoldc.js": "0.0.1"
+    "arnoldc.js": "0.0.3"
   }
 }
