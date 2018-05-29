@@ -16,3 +16,4 @@ Start the test application server with `npm start` (runs `node app/expressserver
 
 Open new commnad line window and run the tests with `npm test` (runs `node_modules/.bin/protractor test/conf.js`)
 # protractor.js-example
+# protractor-example
